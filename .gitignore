@@ -28,3 +28,6 @@ CarFactoryAPI/obj/Debug/net9.0/staticwebassets.build.json
 CarFactoryAPI/obj/Debug/net9.0/staticwebassets.build.json.cache
 CarFactoryAPI/obj/Debug/net9.0/ref/CarFactoryApi.dll
 CarFactoryAPI/obj/Debug/net9.0/refint/CarFactoryApi.dll
+CarFactoryAPI/bin/Debug/net9.0/CarFactoryApi.dll
+CarFactoryAPI/bin/Debug/net9.0/CarFactoryApi.exe
+CarFactoryAPI/bin/Debug/net9.0/CarFactoryApi.pdb
