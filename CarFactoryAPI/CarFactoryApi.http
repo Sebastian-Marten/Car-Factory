@@ -1,0 +1,6 @@
+@CarFactoryApi_HostAddress = http://localhost:5262
+
+GET {{CarFactoryApi_HostAddress}}/carfactory/
+Accept: application/json
+
+###
