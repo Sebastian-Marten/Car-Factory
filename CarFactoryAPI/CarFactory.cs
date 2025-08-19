@@ -10,7 +10,7 @@ namespace CarFactoryApi
 
         public string BuildCar()
         {
-            return _engine.ToString() + " with " + _bodyType.ToString() + " has been built.";
+            return $"Car Factory has built a new car:{Environment.NewLine}{Environment.NewLine}Body{Environment.NewLine}{_bodyType}{Environment.NewLine}{_engine}";
         }
     }
 }

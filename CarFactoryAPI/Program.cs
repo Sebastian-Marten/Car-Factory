@@ -7,7 +7,7 @@ using Microsoft.OpenApi.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddTransient<IEngine, FourCyclinder>();
+builder.Services.AddTransient<IEngine, FourCylinder>();
 builder.Services.AddTransient<IBodyType, Sedan>();
 builder.Services.AddTransient<CarFactory>();
 
